@@ -210,3 +210,14 @@ a:hover {
   margin: 50px;
 }
 
+.footer-block {
+  padding: 0 50px;
+}
+
+.footer-block .footer-title {
+  color: #ffffff;
+  font-family: "Roboto-Light", sans-serif;
+  font-size: 12px;
+  letter-spacing: .1em;
+  text-align: center;
+}
